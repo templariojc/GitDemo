@@ -16,6 +16,11 @@ public class RESTAPITest {
 		System.out.println("postJira2");
 		System.out.println("postJira2");
 		System.out.println("postJira2");
+		System.out.println("Architect 2 changes ");
+		System.out.println("Architect 2 changes ");
+		System.out.println("Architect 2 changes ");
+		System.out.println("Architect 2 changes ");
+		System.out.println("Architect 2 changes ");
 	}
 	
 	@Test
@@ -29,6 +34,10 @@ public class RESTAPITest {
 	}
 	public void deleteTwitter2()
 	{
-		System.out.println("deleteTwitter");
+		System.out.println("Architect 2 changes");
+		System.out.println("Architect 2 changes");
+		System.out.println("Architect 2 changes");
+		System.out.println("Architect 2 changes");
+		
 	}
 }
